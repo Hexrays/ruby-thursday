@@ -28,6 +28,7 @@ gem "font-awesome-rails"
 gem "figaro"
 gem 'rails-controller-testing' #rails 5 upgrade
 gem 'jquery-ui-rails'
+gem 'webpacker', github: 'rails/webpacker'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
